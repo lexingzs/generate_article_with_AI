@@ -67,11 +67,7 @@ conda activate pytorch
 [gitee仓库地址🙉](https://gitee.com/lxgzs-team/generate_article_with_AI)<br>
 [博客首页🙊](https://blog.csdn.net/github_73521658)<br>
 
-## ☕请我们喝卡布奇诺
 
-如果本仓库对你有帮助，可以请作者喝杯卡布奇诺☜(ﾟヮﾟ☜)
-
-<center><img src="https://user-images.githubusercontent.com/112611204/192464009-5ecf272b-c818-4fff-9569-7f3d42d5042b.png" width="40%"></center>
 
 
 
