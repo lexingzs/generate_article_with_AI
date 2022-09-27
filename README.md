@@ -65,7 +65,9 @@ conda activate pytorch
 
 如果本仓库对你有帮助，可以请作者喝杯卡布奇诺☜(ﾟヮﾟ☜)
 
-<center><img src="https://img-blog.csdnimg.cn/12587333edb346c7badd4ce6100b1cf8.png" width="40%"></center>
+
+
+<center><img src="C:\Users\booze\AppData\Roaming\Typora\typora-user-images\image-20220927153632906.png" width="40%"></center>
 
 
 
