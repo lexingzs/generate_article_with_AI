@@ -61,6 +61,12 @@ conda activate pytorch
 	
 - 4.**环境配置配置好了**之后，使用**pycharm打开项目**，并将pycharm链接刚刚配好的pytorch虚拟环境的解释器(python.exe)，**运行main文件**即可🎷。
 
+## 🍭发文平台以及项目开源平台
+
+[github仓库地址🙈](https://github.com/lexingzs/generate_article_with_AI)
+[gitee仓库地址🙉](https://gitee.com/lxgzs-team/generate_article_with_AI)
+[博客首页🙊](
+
 ## ☕请我们喝卡布奇诺
 
 如果本仓库对你有帮助，可以请作者喝杯卡布奇诺☜(ﾟヮﾟ☜)
