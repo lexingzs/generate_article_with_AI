@@ -63,9 +63,9 @@ conda activate pytorch
 
 ## 🍭发文平台以及项目开源平台
 
-[github仓库地址🙈](https://github.com/lexingzs/generate_article_with_AI)
-[gitee仓库地址🙉](https://gitee.com/lxgzs-team/generate_article_with_AI)
-[博客首页🙊](
+[github仓库地址🙈](https://github.com/lexingzs/generate_article_with_AI)<br>
+[gitee仓库地址🙉](https://gitee.com/lxgzs-team/generate_article_with_AI)<br>
+[博客首页🙊](https://blog.csdn.net/github_73521658)<br>
 
 ## ☕请我们喝卡布奇诺
 
